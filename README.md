@@ -71,9 +71,9 @@ To install DICAM, follow these steps:
 To utilize the DICAM method for training, please follow these steps:
 
 1. Download the UIEB and EUVP datasets from their respective sources.
-   - For UIEB dataset, refer to the instructions provided in [UIEB dataset README](https://github.com/hfarhaditolie/DICAM/blob/main/Data/UIEB/readme.md).
+   - For UIEB dataset, 目前没找到符合格式的，还一堆问题refer to the instructions provided in [UIEB dataset README](https://github.com/hfarhaditolie/DICAM/blob/main/Data/UIEB/readme.md).
    - For EUVP dataset, refer to the instructions provided in [EUVP dataset README](https://github.com/hfarhaditolie/DICAM/blob/main/Data/EUVP/readme.md).
-   
+   For EUVP dataset   从这里下载 https://aistudio.baidu.com/datasetdetail/190159
 2. Place the downloaded datasets in the 'Data/' directory of the DICAM repository, following the descriptions provided in each dataset's README.
 
 3. Navigate to the 'UIEB/' directory for UIEB dataset or 'EUVP/' directory for EUVP dataset.
